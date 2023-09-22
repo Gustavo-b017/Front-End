@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--lista nao ordenada (so mostra na ordem que coloca e n mostra quantos tem)-->
+    <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>2</li>
+    </ul>
+    <!--lista ordenada (1. // 2. // 3.)-->
+    <ol><li>1</li>
+        <li>2</li>
+        <li>2</li>
+    </ol>
+
+    <!--quebra de conteudo (adiciona uma linha para dividir)-->
+    <hr>
+
+    <table border="1" style="background-color:blueviolet">
+        <!--(<tr>) - abre colunas (horizontal   )-->
+            <!--(<td>) - abre linhas (vertical)-->
+        <tr>
+            <td> celula 1</td>
+            <td> celula 2</td>
+            <td> celula 3</td>
+        </tr>
+        <tr>
+            <td>celula 4</td>
+            <td>celula 5</td>
+            <td>celula 6</td>
+        </tr>
+        <tr>
+            <td>celula 7</td>
+            <td>celula 8</td>
+            <td>celula 9</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <!--serve para uma programacao especifica em um pedaco de conteudo-->
+    <!--faz uma programacao diferente no conteudo-->
+    TESTE 1 <span onclick="F ()"> TESTE 2 </span> TESTE 3
+    
+    <!--paragrafo - um conceito ou descricao de algo-->
+    <p> paragrafo - um conceito ou descricao de algo</p>
+
+    <hr>
+
+    <!--java script para exemplificar o codigo difenrenciado do "<span>"-->
+    <script>
+        function F(){
+            alert("teste n° 2")
+        }
+    </script>
+
+    <hr>
+
+    <!-- "<div>" e uma camada do conteudo html que serve para organizacao de componentes-->
+        <!-- a propriedade "<style>" representa o CSS no formato INLINE -->
+            <!-- INLINE - significa formataco pontual na tag-->
+    <!-- a propriedade "background-color" representa a formatacao da cor do fundo da linha-->
+    <div style="background-color: rgb(0, 247, 255); position: absolute; top: 500px; left:2px">
+        este e uma camada que 
+        agrupa elementos em 
+        tela/frame/screen
+    </div>
+
+    <div style="background-color: red; position: absolute; top: 400px; left:0px">
+        este e uma camada que 
+        agrupa elementos em 
+        tela/frame/screen
+
+        <br>
+            <div style="background-color: rgb(255, 0, 242);">
+             codigo interno dentro na div vermelha
+            </div>
+    </div>
+    
+    
+
+</body>
+</html>
