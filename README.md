@@ -4,17 +4,17 @@
 
 <a href="## Comandos "># comandos </a>
 <br>
-<a href="1. aula 1 - ">#  aula 1 </a>
+<a haef="1. aula 1 - ">#  aula 1 </a>
 <br>
-<a href="1. aula 1 - ">#  aula 2 </a>
+<a haef="1. aula 1 - ">#  aula 2 </a>
 <br>
-<a href="1. aula 1 - ">#  aula 3 </a>
+<a haef="1. aula 1 - ">#  aula 3 </a>
 <br>
-<a href="1. aula 1 - ">#  aula 4 </a>
+<a haef="1. aula 1 - ">#  aula 4 </a>
 <br>
-<a href="1. aula 1 - ">#  aula 5 </a>
+<a haef="1. aula 1 - ">#  aula 5 </a>
 <br>
-<a href="1. aula 1 - ">#  aula 6 </a>
+<a haef="1. aula 1 - ">#  aula 6 </a>
 
 ## Comandos
 
@@ -29,6 +29,11 @@
 5. ### Aula 5 -
 
 6. ### Aula 6 -
-    * #### Bootstrap :  <br>  É um framework do CSS utilizado para estilizar paginas em html. <br> Ele contem em classes, estilos para tag e estilos para IDs 
+    * #### Bootstrap --  <br>  É um framework do CSS utilizado para estilizar paginas em html. <br> Ele contem em classes, estilos para tag e estilos para IDs. <br> O bootstrap interno: mais rapido, porem consome memoria interna. <br> Porem, o bootstrap externo: e mais lento, porem nao consome memoria
     
+    * #### Monoespaçado -- <br>  É um tipo de fonte onde todas as letras tem o mesmo tamanho, independente da letra. <br> Porém, a maioria das fontes nao utiliza o monoespaço.
+
+    * #### OBS: ctrl + home + end -- <br> Seleciona uma linha.
+
+    * #### OBS: ctrl + ; -- <br> Comenta uma linha ou palavra 
 
