@@ -4,7 +4,7 @@
 
 <a href="## Comandos "># comandos </a>
 <br>
-<a href="1. ### Aula 1 -">#  aula 1 </=>
+<a href="1. ### Aula 1 -">#  aula 1 </a>
 <br>
 <a href="2. ### Aula 2 -">#  aula 2 </a>
 <br>
