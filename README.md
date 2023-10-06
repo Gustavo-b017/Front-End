@@ -23,15 +23,13 @@
 
 
 2. ### Aula 2
-<h4>
 
-    * img -- <br> Adiciona uma imagem. <br> Porém, ele está incompleto. <br> Para poder completar o comando utiliza-se o (scr=""), que tem a função de mostrar o caminho da imagem. 
 
+   <h4> * img -- <br> Adiciona uma imagem. <br> Porém, ele está incompleto. <br> Para poder completar o comando utiliza-se o (scr=""), que tem a função de mostrar o caminho da imagem. 
+    </h4>
     * input -- <br> É uma Tag, são utilizadas de diversas formas. <br> Além disso, elas se tornam mais versateis quando se utiliza o (type). 
 
-    
-    
-</h4>
+
 
 3. ### Aula 3 
     * 
