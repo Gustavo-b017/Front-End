@@ -35,5 +35,5 @@
 
     * #### OBS: ctrl + home + end -- <br> Seleciona uma linha.
 
-    * #### OBS: ctrl + ; -- <br> Comenta uma linha ou palavra 
+    * #### OBS: shift + ; -- <br> Comenta uma linha ou palavra 
 
