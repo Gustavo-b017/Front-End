@@ -14,7 +14,7 @@
 <br>
 <a href="5. Aula 5">#  aula 5 </a>
 <br>
-<a href="6. Aula 6">#  aula 6 </a>
+<a href="#Aula 6">#  aula 6 </a>
 
 ## Comandos
 
