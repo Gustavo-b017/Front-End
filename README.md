@@ -25,14 +25,37 @@
 2. ### Aula 2
 
 
-    * <h4> img -- <br> Adiciona uma imagem. <br> Porém, ele está incompleto. <br> Para poder completar o comando utiliza-se o (scr=""), que tem a função de mostrar o caminho da imagem. </h4>
-    </h4>
-    * input -- <br> É uma Tag, são utilizadas de diversas formas. <br> Além disso, elas se tornam mais versateis quando se utiliza o (type). 
-
-
 
 3. ### Aula 3 
-    * 
+    
+    * <h4> img -- <br> Adiciona uma imagem. <br> Porém, ele está incompleto. <br> Para poder completar o comando utiliza-se o (scr=""). 
+      </h4>
+
+        - <h5> scr="" -- <br> É um comando utilizado para mostrar o caminho de uma imagem, seja ela baixada ou algum link.</h5>
+      
+    * <h4> a -- <br> Esse comando adiciona um link no site. <br> Porém, ele ele esta imcompleto. <br> Para completa-lo se utiliza a propriedade (href). </h4>
+
+        - <h5> href="" -- <br> Essa propriedade leva o usuario ate o link informado, podendo ser outra pagina ou ate mesmo outro site. </h5>
+    
+    * <h4> input -- <br> É uma Tag, são utilizadas de diversas formas. <br> Além disso, elas se tornam mais versateis quando se utiliza o (type). </h4>
+      
+        - <h5> type="text" -- <br>
+            adiciona uma caixa onde se pode escrever textos.
+         </h5>
+
+        - <h5> type="button"  -- <br> Esse type adiciona um botao. <br> Porém, ele esta imcompleto. <br> Para deixa-lo completo se utiliza a propriedade (value).
+        </h5>
+
+        - <h5> value -- <br> Ela é responsavel por addicionar um valor, ou seja, para poder escrever algo, seja dentro do botão ou da caixa de texto.
+        
+        </h5>
+
+    * <h4> script -- <br> É uma tag usada para chamar outros arquivos do javaScript (js) ou fazer outros comandos do js, como o alert. </h4>
+
+        - <h5> alert -- <br> Ele adiciona um alerta na tela do usuario, ele pode nao conseguir acessar a pagina enquanto nao confirmar o alerta </h5>
+
+    * <h3>Obs: o "(&-nbsp)" da espaco dentro do site, para as coisas ficarem mais afastado.<br> obs: é tudo junto, nao tendo espaco ou traço. </h3>
+
 
 4. ### Aula 4 
 
