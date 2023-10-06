@@ -66,9 +66,11 @@
 
 
 6. ### Aula 6
-    * #### Bootstrap --  <br>  É um framework do CSS utilizado para estilizar paginas em html. <br> Ele contem em classes, estilos para tag e estilos para IDs. <br> O bootstrap interno: mais rapido, porem consome memoria interna. <br> Porem, o bootstrap externo: e mais lento, porem nao consome memoria
+    * #### Bootstrap -- 
+        É um framework do CSS utilizado para estilizar paginas em html. <br> Ele contem em classes, estilos para tag e estilos para IDs. <br> O bootstrap interno: mais rapido, porem consome memoria interna. <br> Porem, o bootstrap externo: e mais lento, porem nao consome memoria
     
-    * #### Monoespaçado -- <br>  É um tipo de fonte onde todas as letras tem o mesmo tamanho, independente da letra. <br> Porém, a maioria das fontes nao utiliza o monoespaço.
+    * #### Monoespaçado -- 
+        É um tipo de fonte onde todas as letras tem o mesmo tamanho, independente da letra. <br> Porém, a maioria das fontes nao utiliza o monoespaço.
 
     * #### OBS: ctrl + home + end -- <br> Seleciona uma linha.
 
