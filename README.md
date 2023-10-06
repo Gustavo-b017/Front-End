@@ -20,13 +20,29 @@
 
 1. ### Aula 1
 
+
+
 2. ### Aula 2
+<h4>
+
+    * img -- <br> Adiciona uma imagem. <br> Porém, ele está incompleto. <br> Para poder completar o comando utiliza-se o (scr=""), que tem a função de mostrar o caminho da imagem. 
+
+    * input -- <br> É uma Tag, são utilizadas de diversas formas. <br> Além disso, elas se tornam mais versateis quando se utiliza o (type). 
+
+    
+    
+</h4>
 
 3. ### Aula 3 
+    * 
 
 4. ### Aula 4 
 
+
+
 5. ### Aula 5
+
+
 
 6. ### Aula 6
     * #### Bootstrap --  <br>  É um framework do CSS utilizado para estilizar paginas em html. <br> Ele contem em classes, estilos para tag e estilos para IDs. <br> O bootstrap interno: mais rapido, porem consome memoria interna. <br> Porem, o bootstrap externo: e mais lento, porem nao consome memoria
