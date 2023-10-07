@@ -17,6 +17,8 @@
 <a href="#Aula-6">#  Aula 6 </a>
 <br>
 <a href="#Obs:">#  Observações </a>
+<br>
+<a href="#Autor">#  Autores </a>
 
 <hr>
 
@@ -122,6 +124,54 @@
 
 5. ### Aula 5
 
+    * <h4> link </h4> Esse é um comando para agrupar, ou juntar paginas. <br> Na pratica, é como importar uma programcao externa para o codigo atual. <br> Resumindo, e incorporar outro codigo externo no cogido atual como se fosse dele. <br> Porém ele esta incompleto.
+
+        - <h5> rel="" --  </h5> Seria algo como o tipo de link. <br> Pra chamar o CSS se usa o rel="stylesheet"
+
+        - <h5> href="" -- </h5> Essa propriedade mostra o caminho do arquivo a ser importado. Nele se coloca o caminho do arquivo, e de preferencia ele deve estar no mesmo repositorio.
+
+        <hr>
+
+    * <h4> style -- </h4> Esse comando inicia o CSS no html, e ele deve ser colocado no (head).
+
+        - <h5> class -- </h5> Essa propriedade se inicia com ".". <br> E ela e usada para estilizar um grupo de tags ao mesmo tempo. Além disso, ela deve esta no (head). <br> Exemplo:<br> definindo:  (.classe1 {background-color: }) <br> Aplicando: (class="classe1")
+
+
+            - <h5> font-size -- </h5> Propriedade da classe que define o tamanho da fonte, sendo regida por pixel (px)
+
+            - <h5> font-family -- </h5> É uma propriedade que define a forma das letras, e das palavras. 
+
+                - <h5> monospace -- </h5> É uma propriedade da font-family, que define que todas as letras devem ocupar o mesmo espaço, independente da forma das palavras.
+
+            <hr>
+
+        - <h4> id -- </h4> Só pode existir 1 id no codigo inteiro. <br> O id também pode ser estilizado para poder ser adicionado em outras tag. <br> Sem mais informacoes...
+
+        <hr>    
+
+    * <h4> b -- </h4> Coloca as palavras em negrito.
+
+        <hr>
+
+    * <h4> header -- </h4> Esse é um comando usado para criar um cabecalho no site, e ele define o inicio do site, para separar a sections. <br> Ele tambem pode ter conteudo e estilizacao.
+        
+        - <h5> section -- </h5> Esse comando cria uma secao. <br> Além disso ele é usado para separar as tags por cor durante a pagina, criando uma identidade visual para cada secao.
+
+            - <h5> article -- </h5> cria um artigo, onde se pode colocar os topicos das sections, e tambem se pode adicionar texto, imagens, links, etc.. 
+
+                - <h5> figure -- </h5> Comando usado para iniciar uma figura. <br> Além disso tambem pode se colocar texto.
+
+                    - <h5> img src="" -- </h5> Adiciona uma imagem com um caminho.
+
+                    - <h5> figcaption -- </h5> Esse comando adiciona uma legenda a imagem criada, sendo usada logo apos a imagem.
+    
+    * <h4> footer -- </h4> Adiciona um rodapé ao site
+
+    * <h2> OBS: </h2> Essa seccao pode ser usada uma unica vez, ela serve para dimensionar e organizar o site (para o programador), ela inicia de cima para baixo, e a cada comando ela ira mais para o centro      
+
+        <hr>
+
+           
 
 <hr>
 <hr>
@@ -160,3 +210,16 @@
         <hr>
 
     5. div -- <br> pode existir uma div independente dentro da outra. E tenho cada div um proprio estilo.
+
+<hr>
+<hr>
+
+8. ### # Autor
+
+    1. Gustavo Bezerra Assumção
+        
+        * estudande da FIAP
+       
+        * <a href="https://www.linkedin.com/in/gustavo-bezerra-829202289/"> linkedin </a>
+        
+        * <a href="https://www.instagram.com/gustavo_b017/"> Instagram </a>

@@ -1,11 +1,12 @@
 /* TAG */
 article {
-    background-color: rgb(16, 111, 143);
+    background-color: rgb(67, 143, 16);
 }
 
 .fonte {
     font-family: 'Courier New', Courier, monospace; 
     font-size: 30px
+    
 }
 
 .corfundo{
