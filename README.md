@@ -33,11 +33,14 @@
 
 1. ### Aula 1
 
+    * Aula teorica, sobre a introducao ao front-end
+
 <hr>
 <hr>
 
 2. ### Aula 2
 
+    * Aula teorica, sobre como funciona a web  e como ela foi desenvolvida
 
 <hr>
 <hr>
