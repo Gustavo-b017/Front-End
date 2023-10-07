@@ -16,9 +16,8 @@
 <br>
 <a href="#Aula-6">#  Aula 6 </a>
 <br>
-<a href="#Obs:">#  Aula 6 </a>
-<br>
-<a href="#Autor">#  Autores </a>
+<a href="#Obs:">#  Observacoes </a>
+
 
 <hr>
 
