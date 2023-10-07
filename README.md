@@ -14,7 +14,7 @@
 <br>
 <a href="#Obs">#  Observações </a>
 <br>
-<a href="#autor"> # Autor </a>
+<a href="#Autor"> # Autor </a>
 
 
 
