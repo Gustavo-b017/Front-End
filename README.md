@@ -1,7 +1,3 @@
-# Front-End
-
-* repositorio destinado a ter os projetos, trabalhos e comandos
-
 <a href="## Comandos "># comandos </a>
 <br>
 <a href="#Aula-1">#  Aula 1 </a>
@@ -192,17 +188,12 @@
     
     1. (&-nbsp) -- <br>
     da espaco dentro do site, para as coisas ficarem mais afastado.<br> obs: é tudo junto, nao tendo espaco ou traço.  
-
         <hr>
-
     2. ctrl + home + end -- <br> Seleciona uma linha.
     
         <hr>
-
     3. shift + ( ; ) -- <br> Comenta uma linha ou palavra 
-
         <hr>
-
     4. hr -- <br> 
     Esse comando cria uma linha de divisoria
 
