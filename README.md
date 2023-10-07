@@ -80,7 +80,7 @@
 
         - <h5> li --</h5> Esse comando adiciona os itens, tanto na lista ordenada, quanto na lista nao ordenada.
 
-    <hr>
+        <hr>
 
     * <h4> table -- </h4> Esse comanco cria uma tabela, e ele pode ser modificado por atributos.
        
