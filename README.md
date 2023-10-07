@@ -17,7 +17,7 @@
 <a href="#Autor"> # Autor </a>
 <br>
 
-
+<hr>
 <hr>
 
 ## # Comandos
@@ -207,7 +207,7 @@
 <hr>
 <hr>
 
-8. ### # Autor
+8. ### Autor
 
     1. Gustavo Bezerra Assumção
         
