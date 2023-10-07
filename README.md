@@ -79,6 +79,44 @@
     * <h4> ol -- </h4> Ele cria uma lista  ordenada, ou seja, coloca os itens e os organiza. <br>Além disso, ele informa quantos termos tem e os enumera. <br> Porém, ele nao esta completo, pois precisa do (li).
 
         - <h5> li --</h5> Esse comando adiciona os itens, tanto na lista ordenada, quanto na lista nao ordenada.
+
+    <hr>
+
+    * <h4> table -- </h4> Esse comanco cria uma tabela, e ele pode ser modificado por atributos.
+       
+        - <h5> tr -- </h5> Esse comando cria novas colunas na horizontal.
+
+        - <h5> td -- </h5> Esse comando cria novas linhas na vertical, onde se pode colocar as informacoes.
+
+        - <h5> border="" -- </h5> Essa propriedade da table cria uma borda em volta da tabela.
+
+        - <h5> style="" -- </h5> E essa propriedade permite estilizar a tabela, como colocar uma cor de fundo (utilizando o [background-color: ]).
+
+        <hr>
+
+    * <h4> span -- </h4> Esse comando serve para fazer uma programacao diferente em um conteudo, como fazer uma palavra criar um alerta quando se clica nela.
+
+        <hr>
+
+    * <h4>p -- </h4> Cria um paragrafo, onde se pode colocar um conceito ou uma descricao de algo.
+
+        <hr>
+
+    * <h4> div -- </h4> Esse comando  do html que serve para organizar componentes de conteudo, podendo ser modificada e estilicada com certas propriedades.
+
+        - <h5> style -- </h5> propriedade que representa o CSS no formato INLINE (formatacao na tag [modifica a linha do div]) 
+
+        - <h5> background-color: -- </h5> essa propriedade serve para inserir ou mudar uma cor de fundo, tanto na div quanto em outros comandos.
+
+        - <h5> position:  -- </h5> Essa e uma propriedade que define a posicao, se ira contar apartir de quando ela foi criada ou em relacao a pagina inteira.
+           
+            - <h6> position: absolute -- </h6> propriedade que define a posicao da div em relacaoa pagina do site inteira, podendo sobrpujar outros elementos e interferir na disposicao dos elementos anteriores 
+        
+        - <h5> top -- </h5> propriedade que define a posicao da div em relacao com o "teto" da pagina, sendo regida pelo pixel (px).
+
+        - <h5> left -- </h5> propriedade que serve como 'margem', ela define o quanto a div ira se afastar da margem iniciando pelo lado esquerdo.
+
+    
 <hr>
 <hr>
 
@@ -119,4 +157,6 @@
     4. hr -- <br> 
     Esse comando cria uma linha de divisoria
 
+        <hr>
 
+    5. div -- <br> pode existir uma div independente dentro da outra. E tenho cada div um proprio estilo.
