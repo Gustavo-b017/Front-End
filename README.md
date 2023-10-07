@@ -1,4 +1,6 @@
-<a href="## Comandos "># comandos </a>
+<a href="##-Liguagens-Usadas:"># Linguagens Usadas</a>
+<br>
+<a href="#-Comandos"># comandos </a>
 <br>
 <a href="#Aula-1">#  Aula 1 </a>
 <br>
@@ -20,10 +22,16 @@
 <hr>
 <hr>
 
+## # Linguagens Usadas:
+#### 1. Html
+#### 2. CSS
+
+<hr>
+<hr>
+
 ## # Comandos
 
 1. ### Aula 1
-
 
 <hr>
 <hr>
