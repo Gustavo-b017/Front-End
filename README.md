@@ -1,4 +1,4 @@
-<a href="#-Linguagens-Usadas:"># Comandos </a>
+<a href="#-Linguagens-Usadas"># Comandos </a>
 <br>
 <a href="#-Comandos"># Comandos </a>
 <br>
@@ -22,7 +22,7 @@
 <hr>
 <hr>
 
-## # Linguagens Usadas:
+## # Linguagens Usadas
 #### 1. Html
 #### 2. CSS
 
