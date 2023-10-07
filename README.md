@@ -1,6 +1,6 @@
-<a href="#-#-Liguagens-Usadas:"># Linguagens Usadas</a>
+<a href="#-Linguagens Usadas:"># Linguagens Usadas</a>
 <br>
-<a href="#-Comandos"># comandos </a>
+<a href="#-Comandos"># Comandos </a>
 <br>
 <a href="#Aula-1">#  Aula 1 </a>
 <br>
