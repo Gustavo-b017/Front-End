@@ -1,4 +1,4 @@
-<a href="#-Linguagens-Usadas"># Comandos </a>
+<a href="#-Linguagens-Usadas"># Linguagens Usadas </a>
 <br>
 <a href="#-Comandos"># Comandos </a>
 <br>
