@@ -30,7 +30,7 @@
 
 ## Contexto:
 
-   * Esse README foi criado com o propósito se reunir os comandos, ensinamentos, e dicas sobre o curso de Front-End da FIAP. 
+   * Esse README foi criado com o propósito se reunir os comandos, ensinamentos, e dicas sobre o curso de Front-End da FIAP; lecionado por: Rolfi Cintas Gomes Luz. 
 
    * Além disso, esse README desempenha a função de centralizar, organizar e facilitar o entendimento. Além de relembrar os comando e suas funções mais facilmente.
 
