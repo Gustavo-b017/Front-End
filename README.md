@@ -239,3 +239,4 @@
         * <a href="https://www.linkedin.com/in/gustavo-bezerra-829202289/"> linkedin </a>
         
         * <a href="https://www.instagram.com/gustavo_b017/"> Instagram </a>
+        * <a href="https://github.com/Gustavo-b017"> Github </a>
