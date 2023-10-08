@@ -20,9 +20,9 @@
 <br>
 <a href="#Aula-6">#  Aula 6 </a>
 <br>
-<a href="#Obs">#  Observações </a>
+<a href="#-Obs">#  Observações </a>
 <br>
-<a href="#Autor"> # Autor </a>
+<a href="#-Autor"> # Autor </a>
 <br>
 
 <hr>
@@ -210,7 +210,7 @@
 <hr>
 <hr>
 
-7. ### Obs:
+### # Obs:
     
     1. (&-nbsp) -- <br>
     da espaco dentro do site, para as coisas ficarem mais afastado.<br> obs: é tudo junto, nao tendo espaco ou traço.  
@@ -230,7 +230,7 @@
 <hr>
 <hr>
 
-8. ### Autor
+### # Autor
 
     1. Gustavo Bezerra Assumção
         
