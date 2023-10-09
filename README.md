@@ -215,20 +215,20 @@
  1. (&-nbsp) -- <br>
     da espaco dentro do site, para as coisas ficarem mais afastado.<br> obs: é tudo junto, nao tendo espaco ou traço.  
         
-        <hr>
+  <hr>
         
  2. ctrl + home + end -- <br> Seleciona uma linha.
     
-       <hr>
+  <hr>
        
  3. shift + ( ; ) -- <br> Comenta uma linha ou palavra 
         
-        <hr>
+  <hr>
 
  4. hr -- 
     Esse comando cria uma linha de divisoria
 
-        <hr>
+  <hr>
 
  5. div -- <br> pode existir uma div independente dentro da outra. E tenho cada div um proprio estilo.
 
@@ -236,13 +236,12 @@
 <hr>
 
 ### # Autor
-
-    1. Gustavo Bezerra Assumção
+1. Gustavo Bezerra Assumção
         
-        * estudande da FIAP
+   * estudande da FIAP
        
-        * <a href="https://www.linkedin.com/in/gustavo-bezerra-829202289/"> linkedin </a>
-        
-        * <a href="https://www.instagram.com/gustavo_b017/"> Instagram </a>
-        
-        * <a href="https://github.com/Gustavo-b017"> Github </a>
+   * <a href="https://www.linkedin.com/in/gustavo-bezerra-829202289/"> linkedin </a>
+
+   * <a href="https://www.instagram.com/gustavo_b017/"> Instagram </a>
+  
+   * <a href="https://github.com/Gustavo-b017"> Github </a>
