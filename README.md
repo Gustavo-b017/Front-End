@@ -20,6 +20,8 @@
 <br>
 <a href="#Aula-6">#  Aula 6 </a>
 <br>
+<a href="#Aula-7">#  Aula 7 </a>
+<br>
 <a href="#-Obs">#  Observações </a>
 <br>
 <a href="#-Autor"> # Autor </a>
@@ -206,6 +208,51 @@
 
     * #### Monoespaçado -- 
         É um tipo de fonte onde todas as letras tem o mesmo tamanho, independente da letra. <br> Porém, a maioria das fontes nao utiliza o monoespaço.
+
+<hr>
+<hr>
+
+7. ### Aula 7
+
+    * <h4> style -- </h4> Esse comando inicia o CSS no html, e ele deve ser colocado no (head).
+
+        - <h5> class -- </h5> para se criar uma classe se deve colocar o (" . ") antes da palavra.
+
+            - <h6> .container -- </h6> Agrupamento de componentes
+
+            - <h6> .painel -- </h6> Agrupamento de componentes
+
+        - <h5> margin -- </h5> da espacamento entre a pagina
+
+            - <h6> margin-top --</h6> margem em ralacao ao topo da caixa
+
+            - <h6> margin-left --</h6> margem em ralacao a borda esquerda da caixa
+
+            - <h6> magin-right --</h6> margem em relacao ao lado direito da caixa
+
+            - <h6> margin-botton -- </h6> margem em relacao a parte de baixo da caixa
+
+        - <h5> padding --  </h5> Espaçamento entre a borda e o conteudo. <br> Além disso, ele fica dentro do margin
+
+        - <h5> border -- </h5> contorno entre o conteudo, e feica depois do padding
+
+        - <h5> width -- </h5> propriedade que muda a largura de uma caixa
+
+        - <h5> height -- </h5> propriedade que alterra a altura da caixa
+
+
+    * <h4> div --</h4>
+        
+        - <h5> position -- </h5>
+
+            - <h6> relativ -- </h6> é relativo a posicao onde a div foi colocando no codigo, sendo o local digitado o ponto (0,0)
+
+            - <h6> absolute --  </h6> É relativo ao inicio da pagina, ou seja, a div sera colocada pela posicao em ralacao a pagina 
+
+        - <h5> class="" -- </h5> propriedade que pega uma classe craida no no style
+        
+    * <h4> @midia -- </h4> altera a propriedade do CSS
+
 
 <hr>
 <hr>
