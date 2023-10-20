@@ -222,7 +222,7 @@
 
             - <h6> .painel -- </h6> Agrupamento de componentes
 
-        - <h5> margin -- </h5> da espacamento entre a pagina
+        - <h5> margin -- </h5> da espacamento entre a pagina, espacamento absoluto entre o top 0, left 0, "inicio da pagina" e o elemento/componente
 
             - <h6> margin-top --</h6> margem em ralacao ao topo da caixa
 
@@ -232,9 +232,9 @@
 
             - <h6> margin-botton -- </h6> margem em relacao a parte de baixo da caixa
 
-        - <h5> padding --  </h5> Espaçamento entre a borda e o conteudo. <br> Além disso, ele fica dentro do margin
+        - <h5> padding --  </h5> Espaçamento entre a borda e o conteudo. <br> Alem disso, ele fica depois do border
 
-        - <h5> border -- </h5> contorno entre o conteudo, e feica depois do padding
+        - <h5> border -- </h5> contorno entre o conteudo, e feica antes do padding, e depois da margin
 
         - <h5> width -- </h5> propriedade que muda a largura de uma caixa
 
@@ -248,13 +248,13 @@
         
         - <h5> position -- </h5>
 
-            - <h6> relativ -- </h6> é relativo a posicao onde a div foi colocando no codigo, sendo o local digitado o ponto (0,0)
+            - <h6> relative -- </h6> é relativo a posicao onde a div foi colocando no codigo, sendo o local digitado o ponto (0,0)
 
             - <h6> absolute --  </h6> É relativo ao inicio da pagina, ou seja, a div sera colocada pela posicao em ralacao a pagina 
 
-        - <h5> class="" -- </h5> propriedade que pega uma classe craida no no style
+        - <h5> class="" -- </h5> propriedade que pega uma classe criada no no style
         
-    * <h4> @midia -- </h4> propriedade do CSS que quando se estipula o ecrã (tela), ele altera as propriedades do CSS dependendo do tamanho da pagina
+    * <h4> @media -- </h4> propriedade do CSS que quando se estipula o ecrã (tela), ele altera as propriedades do CSS dependendo do tamanho da pagina
 
 
 <hr>
