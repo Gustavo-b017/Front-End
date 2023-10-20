@@ -240,6 +240,9 @@
 
         - <h5> height -- </h5> propriedade que alterra a altura da caixa
 
+        - <h5> </h5>
+        
+
 
     * <h4> div --</h4>
         
@@ -251,7 +254,7 @@
 
         - <h5> class="" -- </h5> propriedade que pega uma classe craida no no style
         
-    * <h4> @midia -- </h4> altera a propriedade do CSS
+    * <h4> @midia -- </h4> propriedade do CSS que quando se estipula o ecrã (tela), ele altera as propriedades do CSS dependendo do tamanho da pagina
 
 
 <hr>
@@ -278,6 +281,21 @@
   <hr>
 
  5. div -- <br> pode existir uma div independente dentro da outra. E tenho cada div um proprio estilo.
+  
+  <hr>
+
+ 6. px -- <br> menor pariticula da tela; denominado de ecrã.
+    
+    * width -- largura
+    * height -- altura
+  
+  <hr>
+
+ 7. fr -- <br> "fatias" da tela, divide a tela em algumas fatias.
+
+  <hr>
+
+ 8. rem -- <br> quantidade de particulas na tela, nao utilizado pois nao se roda em todos os navegadores
 
 <hr>
 <hr>
