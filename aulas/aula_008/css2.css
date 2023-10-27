@@ -1,0 +1,39 @@
+
+.container{
+    /* display: gid -- organiza no navegador em forma de grade */
+    display: grid;
+    /* define a altura */
+    width: 100%;
+    /* define a largura */
+    height: 100%;
+    /* grid-template-areas: -- onde os elementos ira ficar */
+    grid-template-areas:
+    /*  */
+    "B B"
+    "A A" ;
+    
+    /* determina a quantidade de linhas */
+    /* fr -- fracao (cada fr representa uma fracao da pagina */
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    /*determina a quantidade de colunas*/
+    grid-template-columns: 1fr 1fr;
+    /* border -- cria uma borda envolta */
+    /* solid --  */
+    border: 1px solid hotpink
+
+*/
+}
+.item1{
+    /* o item1 assume o nome de "A", como se fosse um apelido, ele muda de nome para ficar mais facil de identificar */
+    grid-area: A;
+    /* adiciona cor de fundo */
+    background-color: red;
+    border: 1px solid greenyellow
+}
+
+.item2{
+    grid-area: B;
+    background-color: #00f028;
+    border: 1px solid darkblue
+
+}
