@@ -22,6 +22,10 @@
 <br>
 <a href="#Aula-7">#  Aula 7 </a>
 <br>
+<a href="#Aula-8">#  Aula 8 </a>
+<br>
+<a href="#Aula-9">#  Aula 9 </a>
+<br>
 <a href="#-Obs">#  Observações </a>
 <br>
 <a href="#-Autor"> # Autor </a>
@@ -255,6 +259,23 @@
         - <h5> class="" -- </h5> propriedade que pega uma classe criada no no style
         
     * <h4> @media -- </h4> propriedade do CSS que quando se estipula o ecrã (tela), ele altera as propriedades do CSS dependendo do tamanho da pagina
+
+
+<hr>
+<hr>
+
+8. ### Aula 8
+
+<hr>
+<hr>
+
+9. ### Aula 9
+
+    * <h4> </h4>
+
+        <h5> </h5>
+
+            <hr>
 
 
 <hr>
