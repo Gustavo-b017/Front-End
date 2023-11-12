@@ -281,28 +281,13 @@
 <hr>
 <hr>
 
-<<<<<<< HEAD
 ## CSS:
 
 <a href=""> CSS no Desenvolvimento Web </a>
-=======
-8. ### Aula 8
-
-<hr>
-<hr>
-
-9. ### Aula 9
-
-    * <h4> </h4>
-
-        <h5> </h5>
-
-            <hr>
 
 
 <hr>
 <hr>
->>>>>>> 794cb3a73305b4060f6d64b65e3516df27a772d4
 
 ### # Obs:
     
