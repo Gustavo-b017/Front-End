@@ -1,0 +1,37 @@
+
+
+DNS - DOMAIN NAME SERVICE
+serviço de nomes e domínios.
+
+www.registro.br - governo
+
+hospedagem - onde localizado os arquivos de site.
+
+-------
+Hospedagem local
+
+comando do CMD
+ipconfig / ifconfig , if , ip
+
+IPV6 fe80::1818:d9b6:39bb:5b6c%7
+
+IPV4 [142.251.129.35] - mihões de IPS válidos
+IP DE INTERNET - IP PÚBLICO
+IANA fornece IP válido
+
+
+ping 10.3.77.3 - ping em uma máquina válida na rede
+resposta
+
+Reply from 10.3.77.3: bytes=32 time=2ms TTL=128
+Reply from 10.3.77.3: bytes=32 time=1ms TTL=128
+Reply from 10.3.77.3: bytes=32 time=1ms TTL=128
+Reply from 10.3.77.3: bytes=32 time=1ms TTL=128
+
+ping 1.2.3.4 
+Request time out. -> máquina está fora
+
+Executar Servidor de Aplicação (Web)
+No CMD - npx live-server
+NO CMD - npx http-server
+
